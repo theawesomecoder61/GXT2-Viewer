@@ -1,0 +1,10 @@
+C:\Users\zachr\documents\visual studio 2015\Projects\GXT2 Viewer\GXT2 Viewer\bin\Debug\GXT2 Viewer.exe.config
+C:\Users\zachr\documents\visual studio 2015\Projects\GXT2 Viewer\GXT2 Viewer\bin\Debug\GXT2 Viewer.exe
+C:\Users\zachr\documents\visual studio 2015\Projects\GXT2 Viewer\GXT2 Viewer\bin\Debug\GXT2 Viewer.pdb
+C:\Users\zachr\documents\visual studio 2015\Projects\GXT2 Viewer\GXT2 Viewer\bin\Debug\CsvHelper.dll
+C:\Users\zachr\documents\visual studio 2015\Projects\GXT2 Viewer\GXT2 Viewer\bin\Debug\CsvHelper.xml
+C:\Users\zachr\documents\visual studio 2015\Projects\GXT2 Viewer\GXT2 Viewer\obj\Debug\GXT2_Viewer.Form1.resources
+C:\Users\zachr\documents\visual studio 2015\Projects\GXT2 Viewer\GXT2 Viewer\obj\Debug\GXT2_Viewer.Properties.Resources.resources
+C:\Users\zachr\documents\visual studio 2015\Projects\GXT2 Viewer\GXT2 Viewer\obj\Debug\GXT2 Viewer.csproj.GenerateResource.Cache
+C:\Users\zachr\documents\visual studio 2015\Projects\GXT2 Viewer\GXT2 Viewer\obj\Debug\GXT2 Viewer.exe
+C:\Users\zachr\documents\visual studio 2015\Projects\GXT2 Viewer\GXT2 Viewer\obj\Debug\GXT2 Viewer.pdb
